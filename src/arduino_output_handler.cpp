@@ -17,6 +17,7 @@ limitations under the License.
 
 #include "Arduino.h"
 #include "constants.h"
+#include "analogWrite.h"
 
 // The pin of the Arduino's built-in LED
 int led = LED_BUILTIN;
