@@ -29,4 +29,7 @@ const float kXrange = 2.f * 3.14159265359f;
 // inference, this value should be defined per-device.
 extern const int kInferencesPerCycle;
 
+// Missing constants from arduino-esp32 framework
+#define LED_BUILTIN 2
+
 #endif  // TENSORFLOW_LITE_EXPERIMENTAL_MICRO_EXAMPLES_HELLO_WORLD_CONSTANTS_H_
