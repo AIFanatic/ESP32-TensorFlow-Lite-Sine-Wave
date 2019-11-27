@@ -1,0 +1,4 @@
+[submodule "lib/ESP32_TensorFlowLite"]
+	path = lib/ESP32_TensorFlowLite
+	url = https://github.com/AIFanatic/ESP32_TensorFlowLite.git
+	branch = master
